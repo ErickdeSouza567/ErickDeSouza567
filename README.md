@@ -19,17 +19,6 @@
 
   <p>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</p>
 
-  <p><b>Desenvolvimento Full Stack WEBAPI com C#</b><br>  
-  <b>Full Stack WEBAPI Development with C# </b></p>
-  <div style="display: inline_block;">
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-    <img align="center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-    <img align="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="REACTNATIVe" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  </div><br/>
-
   <p><b>Desenvolvimento Full Stack WEBAPI com PYTHON</b><br>  
   <b>Full Stack WEBAPI Development with PYTHON </b></p>
   <div style="display: inline_block;">
@@ -46,7 +35,5 @@
     <img align="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img align="center" alt="SPARK" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" />
     <img align="center" alt="KAFKA" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-    <img align="center" alt="SNOWFLAKE" src="https://img.shields.io/badge/Snowflake-00A3E0?style=for-the-badge&logo=snowflake&logoColor=white" />
-    <img align="center" alt="POWER BI" src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
   </div><br/>
 </div>
