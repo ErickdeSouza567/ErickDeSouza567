@@ -18,7 +18,6 @@
   <b>Technologies I use in my daily work:</b></p>
 
 <p>✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨</p>
-
   <p><b>Desenvolvimento Full Stack WEBAPI com PYTHON</b><br>  
   <b>Full Stack WEBAPI Development with PYTHON </b></p>
   <div style="display: inline_block;">
@@ -26,7 +25,6 @@
     <img align="center" alt="DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img align="center" alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   </div><br/>
-
   <p><b>Desenvolvimento Web Backend com C#</b><br>  
   <b>Web Backend Development with C#</b></p>
   <div style="display: inline_block;">
@@ -34,7 +32,6 @@
     <img align="center" alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=asp.net&logoColor=white" />
     <img align="center" alt="SQL SERVER" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   </div><br/>
-  
   <p><b>Engenharia e Arquitetura de dados & Big Data</b><br>  
   <b>Data Engineering & Architecture & Big Data </b></p>
   <div style="display: inline_block;">
